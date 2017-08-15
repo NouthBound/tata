@@ -2,4 +2,4 @@ hello
 good morning
 junk
 peter
-new idea
+new
